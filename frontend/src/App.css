@@ -745,7 +745,7 @@ nav svg {
 .contact .banner:last-child .item form button {
   padding: 10px 60px;
   font-size: 24px;
-  color: #fff;
+  color: #e8a8a8;
  
   font-weight: 300;
   font-family: "Alex Brush", cursive;
@@ -836,7 +836,7 @@ footer .banner .tag p {
 }
 
 footer .banner .tag div button {
-  background: #fff7ea;
+  background: #d7c2a0;
   border: 1px solid #fff7ea;
   padding: 7px 15px;
   border-radius: 8px;
@@ -911,7 +911,7 @@ footer .banner .tag div button {
 
 .services .banner .item h3 {
   position: absolute;
-  background: #fff7ea;
+  background: #b08e58;
   width: 100%;
   height: 100%;
   display: flex;

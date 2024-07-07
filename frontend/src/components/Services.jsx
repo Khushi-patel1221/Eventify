@@ -15,7 +15,7 @@ const Services = () => {
     {
       id: 3,
       url: "/camping.jpg",
-      title: "Camping Trip Planning",
+      title: "Farewell Party",
     },
     {
       id: 4,
