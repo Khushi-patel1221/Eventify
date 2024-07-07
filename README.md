@@ -30,6 +30,22 @@ Express: Facilitates routing and middleware management, enabling seamless commun
 
 MongoDB: Manages the backend data for Eventify, ensuring efficient storage and retrieval of event-related information. Stores data related to events, Event subject, organizers, and message.
 
+## Home Page
+![](https://github.com/Khushi-patel1221/Eventify/blob/main/frontend/src/images/home.png)
+
+## Services
+![](https://github.com/Khushi-patel1221/Eventify/blob/main/frontend/src/images/services.png)
+
+## About
+![](https://github.com/Khushi-patel1221/Eventify/blob/main/frontend/src/images/about.png)
+
+## Contact
+![](https://github.com/Khushi-patel1221/Eventify/blob/main/frontend/src/images/contact.png)
+
+## Footer
+![](https://github.com/Khushi-patel1221/Eventify/blob/main/frontend/src/images/footer.png)
+
+
 ## Installation🚀
 ## Backend
 Clone the repository:
@@ -51,7 +67,8 @@ mongodb+srv://:@/?retryWrites=true&w=majority&appName= Replace the following pla
 : Your MongoDB username : Your MongoDB password : The MongoDB cluster URL : The MongoDB database name : Optional. The name of your application
 
 Start the backend server: npm start
-Frontend
+
+## Frontend
 Navigate to the frontend directory: cd frontend
 
 Install dependencies: npm install
